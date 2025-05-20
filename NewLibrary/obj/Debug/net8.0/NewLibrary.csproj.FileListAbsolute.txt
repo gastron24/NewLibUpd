@@ -1,0 +1,15 @@
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\bin\Debug\net8.0\NewLibrary.exe
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\bin\Debug\net8.0\NewLibrary.deps.json
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\bin\Debug\net8.0\NewLibrary.runtimeconfig.json
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\bin\Debug\net8.0\NewLibrary.dll
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\bin\Debug\net8.0\NewLibrary.pdb
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\NewLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\NewLibrary.AssemblyInfoInputs.cache
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\NewLibrary.AssemblyInfo.cs
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\NewLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\NewLibrary.sourcelink.json
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\NewLibrary.dll
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\refint\NewLibrary.dll
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\NewLibrary.pdb
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\NewLibrary.genruntimeconfig.cache
+C:\Users\pizda\source\repos\NewLibrary\NewLibrary\obj\Debug\net8.0\ref\NewLibrary.dll
