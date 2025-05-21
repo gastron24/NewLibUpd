@@ -1,12 +1,12 @@
-﻿using System;
+﻿using NewLibrary.Actions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NewLibrary;
-namespace NewLibrary
+namespace NewLibrary.Models
 {
-    class UserMenu
+    class InputMainMenu
     {        
        
        
@@ -28,13 +28,16 @@ namespace NewLibrary
                 {
                     case 1:
 
-                        library.GetInfoBook();
+                        GetInfoBooks CreateBook = new();
+                        CreateBook.GetInfoBook();
                         break;
                     case 2:
-                        library.ShowAllBook();                                                             ///ЗАТЫК library.ShowAllBook() - значение отличное.
+                        ShowAllBooks showAllBooks = new();
+                        showAllBooks.ShowAllBook();                                                                            ///ЗАТЫК library.ShowAllBook() - значение отличное.
                         break;                                                                           ///по этому через затычку new(дабы дописать :(   )
                     case 3:
-                        library.DeleteBook();
+                        Deleatebooks deleatebooks = new();
+                        deleatebooks.DeleteBook();
                         break;
                     case 4:
                         Environment.Exit(0);                                                              /// исправил вынес создание library за класс.                    

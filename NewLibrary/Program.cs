@@ -1,10 +1,12 @@
-﻿namespace NewLibrary
+﻿using NewLibrary.Models;
+
+namespace NewLibrary
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            UserMenu menu = new();
+            InputMainMenu menu = new();
             menu.InputMenu();
         }
         

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pizda\\source\\repos\\NewLibrary\\NewLibrary\\NewLibrary.csproj": {}
+    "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\NewLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pizda\\source\\repos\\NewLibrary\\NewLibrary\\NewLibrary.csproj": {
+    "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\NewLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pizda\\source\\repos\\NewLibrary\\NewLibrary\\NewLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\NewLibrary.csproj",
         "projectName": "NewLibrary",
-        "projectPath": "C:\\Users\\pizda\\source\\repos\\NewLibrary\\NewLibrary\\NewLibrary.csproj",
+        "projectPath": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\NewLibrary.csproj",
         "packagesPath": "C:\\Users\\pizda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pizda\\source\\repos\\NewLibrary\\NewLibrary\\obj\\",
+        "outputPath": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
