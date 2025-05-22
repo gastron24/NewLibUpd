@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NewLibrary;
 using NewLibrary.Models;
+using NewLibrary.Views;
 namespace NewLibrary.Actions
 {
     class Deleatebooks
@@ -13,24 +14,23 @@ namespace NewLibrary.Actions
         {
             try
             {
-                Console.WriteLine("Выберите Id книги для удаления. ");
-                var theDealaterId = int.Parse(Console.ReadLine());
+                ShowAllBooks viewLibraryBook = new();
+                viewLibraryBook.ShowAllBook();
+                Console.Clear();
+                Console.WriteLine("Введите Id книги для Удаления");
+               int theDeleter =  int.Parse(Console.ReadLine());
 
-                foreach (var book in Library.books)
-                {
-                    if (Library.ReturnUniqueId() == theDealaterId)
-                    {
-                       Library.books.Remove(book);
-                        Console.WriteLine($"Книга с номером {theDealaterId} удаленна");
-                        return;
-                    }
-                }
+                RemoveBook removeBook = new();
+                removeBook.ReMoveBook(theDeleter);
             }
-            catch
+            catch (Exception ex)
             {
-                Console.WriteLine("Некорректный ввод Id");
+                Console.WriteLine("Ошибка некорректный ввод");
+                Console.WriteLine(ex);
             }
-            Console.Clear();
+            Console.Clear();   
+
+            
         }
     }
 } 

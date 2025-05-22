@@ -20,8 +20,9 @@ namespace NewLibrary.Models
                 Console.WriteLine("1 - Добавить книгу.");
                 Console.WriteLine("2 - Список книг.");
                 Console.WriteLine("3 - Удаление книги.");
-                Console.WriteLine("4 - Выход из программы");
-
+                Console.WriteLine("4 - Поиск по книгам");
+                Console.WriteLine("5 - Редактировать Книгу");
+                Console.WriteLine("6 - Выход");
                 int inputChoice = int.Parse(Console.ReadLine());
 
                 switch (inputChoice)
@@ -33,14 +34,21 @@ namespace NewLibrary.Models
                         break;
                     case 2:
                         ShowAllBooks showAllBooks = new();
-                        showAllBooks.ShowAllBook();                                                                            ///ЗАТЫК library.ShowAllBook() - значение отличное.
-                        break;                                                                           ///по этому через затычку new(дабы дописать :(   )
+                        showAllBooks.ShowAllBook();                                                                            
+                        break;                                                                           
                     case 3:
                         Deleatebooks deleatebooks = new();
                         deleatebooks.DeleteBook();
                         break;
                     case 4:
-                        Environment.Exit(0);                                                              /// исправил вынес создание library за класс.                    
+                        SearchBook searchBook = new();
+                        searchBook.Search();
+                        break;
+                    case 5:
+
+                        break;
+                    case 6:
+                        Environment.Exit(0);
                         break;
                 }
                 
