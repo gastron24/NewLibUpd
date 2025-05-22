@@ -12,8 +12,7 @@ namespace NewLibrary.Actions
     class GetInfoBooks
     {
         public void GetInfoBook()
-        {
-            int _lastId = 0;
+        {            
             try
             {
                 Console.Clear();
@@ -29,12 +28,11 @@ namespace NewLibrary.Actions
                 Console.WriteLine("Год? ");
                 int age = int.Parse(Console.ReadLine());
                 Console.Clear();
-
-                Book newBook = new Book(name, age, author, _lastId);
+                Book newBook = new Book(name, age, author, Library.ReturnUniqueId());
                 Library.books.Add(newBook);
                
-                Console.WriteLine($"Добавлена книга {name} под номером {_lastId}");
-                _lastId++;
+                Console.WriteLine($"Добавлена книга {name} под номером {newBook.Id}");
+                  
 
             }
             catch

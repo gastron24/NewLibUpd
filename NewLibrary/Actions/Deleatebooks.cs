@@ -18,7 +18,7 @@ namespace NewLibrary.Actions
 
                 foreach (var book in Library.books)
                 {
-                    if (book.Id == theDealaterId)
+                    if (Library.ReturnUniqueId() == theDealaterId)
                     {
                        Library.books.Remove(book);
                         Console.WriteLine($"Книга с номером {theDealaterId} удаленна");

@@ -13,11 +13,10 @@ namespace NewLibrary.Actions
         {
             Console.WriteLine("Список Литературы: ");
 
-            var libraryAllBook = from book in Library.books
-                                 orderby book ascending
+            var libraryAllBook = from book in Library.books                                 
                                  select book;
 
-            foreach (var book in libraryAllBook)
+            foreach (Book book in libraryAllBook)
                 Console.WriteLine(book);
 
 

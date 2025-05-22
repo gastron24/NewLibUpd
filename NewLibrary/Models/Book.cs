@@ -8,10 +8,11 @@ namespace NewLibrary.Models
 {
     class Book
     {
+        public int Id { get; set; }
         public string? Name { get; set; }
         public int Age { get; set; }
         public string? Author { get; set; }
-        public int Id { get; set; }
+        
        
         public Book(string name, int age, string author, int id)
         {
