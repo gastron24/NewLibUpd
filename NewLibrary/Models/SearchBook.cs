@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using NewLibrary;
 namespace NewLibrary.Models
 {
     class SearchBook
@@ -24,14 +24,16 @@ namespace NewLibrary.Models
             switch(inputSearchType)
             {
                 case 1:
-                    SearchNameBook serchForName = new();
+                    SearchNameBooks serchForName = new();
                     serchForName.Search();
                     break;
                 case 2:
-
+                    SearchAuthorBooks searchForAuthor = new();
+                    searchForAuthor.Search();
                     break;
                 case 3:
-
+                    SearchAgeBooks searchForAge = new();
+                    searchForAge.SearchAgeBook();
                     break;
             }
 

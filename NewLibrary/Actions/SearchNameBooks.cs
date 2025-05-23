@@ -7,7 +7,7 @@ using NewLibrary;
 using NewLibrary.Models;
 namespace NewLibrary.Actions
 {
-    class SearchNameBook
+    class SearchNameBooks
     {
         public void Search()
         {

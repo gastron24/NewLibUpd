@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|c:\\users\\pizda\\documents\\github\\newlibupd\\newlibrary\\models\\inputmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|solutionrelative:newlibrary\\models\\inputmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|c:\\users\\pizda\\documents\\github\\newlibupd\\newlibrary\\actions\\searchauthorbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|solutionrelative:newlibrary\\actions\\searchauthorbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|c:\\users\\pizda\\documents\\github\\newlibupd\\newlibrary\\actions\\searchagebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|solutionrelative:newlibrary\\actions\\searchagebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|c:\\users\\pizda\\documents\\github\\newlibupd\\newlibrary\\actions\\deleatebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|solutionrelative:newlibrary\\actions\\deleatebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|c:\\users\\pizda\\documents\\github\\newlibupd\\newlibrary\\models\\searchbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|solutionrelative:newlibrary\\models\\searchbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|c:\\users\\pizda\\documents\\github\\newlibupd\\newlibrary\\actions\\searchagebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|solutionrelative:newlibrary\\actions\\searchagebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|c:\\users\\pizda\\documents\\github\\newlibupd\\newlibrary\\actions\\showallbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|solutionrelative:newlibrary\\actions\\showallbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|c:\\users\\pizda\\documents\\github\\newlibupd\\newlibrary\\actions\\searchnamebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|solutionrelative:newlibrary\\actions\\searchnamebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|c:\\users\\pizda\\documents\\github\\newlibupd\\newlibrary\\models\\inputmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AB94D9-50D6-4CEC-A2AD-727508DA90CD}|NewLibrary\\NewLibrary.csproj|solutionrelative:newlibrary\\models\\inputmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SearchAgeBook.cs",
-              "DocumentMoniker": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\SearchAgeBook.cs",
-              "RelativeDocumentMoniker": "NewLibrary\\Actions\\SearchAgeBook.cs",
-              "ToolTip": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\SearchAgeBook.cs",
-              "RelativeToolTip": "NewLibrary\\Actions\\SearchAgeBook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "Deleatebooks.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\Deleatebooks.cs",
+              "RelativeDocumentMoniker": "NewLibrary\\Actions\\Deleatebooks.cs",
+              "ToolTip": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\Deleatebooks.cs",
+              "RelativeToolTip": "NewLibrary\\Actions\\Deleatebooks.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:57:47.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowAllBooks.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\ShowAllBooks.cs",
+              "RelativeDocumentMoniker": "NewLibrary\\Actions\\ShowAllBooks.cs",
+              "ToolTip": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\ShowAllBooks.cs",
+              "RelativeToolTip": "NewLibrary\\Actions\\ShowAllBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:29:37.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchBook.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Models\\SearchBook.cs",
+              "RelativeDocumentMoniker": "NewLibrary\\Models\\SearchBook.cs",
+              "ToolTip": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Models\\SearchBook.cs",
+              "RelativeToolTip": "NewLibrary\\Models\\SearchBook.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:22:26.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchAuthorBooks.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\SearchAuthorBooks.cs",
+              "RelativeDocumentMoniker": "NewLibrary\\Actions\\SearchAuthorBooks.cs",
+              "ToolTip": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\SearchAuthorBooks.cs",
+              "RelativeToolTip": "NewLibrary\\Actions\\SearchAuthorBooks.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwBAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:19:47.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchNameBooks.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\SearchNameBooks.cs",
+              "RelativeDocumentMoniker": "NewLibrary\\Actions\\SearchNameBooks.cs",
+              "ToolTip": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\SearchNameBooks.cs",
+              "RelativeToolTip": "NewLibrary\\Actions\\SearchNameBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:18:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchAgeBooks.cs",
+              "DocumentMoniker": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\SearchAgeBooks.cs",
+              "RelativeDocumentMoniker": "NewLibrary\\Actions\\SearchAgeBooks.cs",
+              "ToolTip": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Actions\\SearchAgeBooks.cs",
+              "RelativeToolTip": "NewLibrary\\Actions\\SearchAgeBooks.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T14:13:21.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "InputMainMenu.cs",
               "DocumentMoniker": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Models\\InputMainMenu.cs",
               "RelativeDocumentMoniker": "NewLibrary\\Models\\InputMainMenu.cs",
               "ToolTip": "C:\\Users\\pizda\\Documents\\GitHub\\NewLibUpd\\NewLibrary\\Models\\InputMainMenu.cs",
               "RelativeToolTip": "NewLibrary\\Models\\InputMainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T13:03:19.169Z",
               "EditorCaption": ""
